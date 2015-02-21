@@ -7,5 +7,5 @@ slice or split the file into small pieces (chuncks) and allow for synchronize ca
 
 The server impementation is java, spring rest mvc. The next version will cover nodejs 
 
-The source code  can be  located at 
+The source code  is at 
 https://sourceforge.net/p/fileuploadformemorycontraint/code/ci/master/tree/
