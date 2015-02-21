@@ -6,3 +6,6 @@ The device limited memory does not allow the big file; usually images file but c
 slice or split the file into small pieces (chuncks) and allow for synchronize call into the server for each slice; once this is done, the javascript trigger another call to the servre ( ajax) call with some meta data. The fileupload.js file contains pure javasccript code with no depenecy on any third part. The code can be configured to change the chunck size. The code has NOT been tested on memory limited device; however for any issue and help please report it as an issue on the github for this project.
 
 The server impementation is java, spring rest mvc. The next version will cover nodejs 
+
+The source code  can be  located at 
+https://sourceforge.net/p/fileuploadformemorycontraint/code/ci/master/tree/
